@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdWebAPI", "..\PdWebAPI\PdWebAPI.csproj", "{2E9EAA40-E1AB-48A0-B0A9-8AD65A3C9C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdMVCWeb", "..\PdMVCWeb\PdMVCWeb.csproj", "{47F76837-7AC7-47C1-B163-BF5FAA62E3FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9EAA40-E1AB-48A0-B0A9-8AD65A3C9C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9EAA40-E1AB-48A0-B0A9-8AD65A3C9C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9EAA40-E1AB-48A0-B0A9-8AD65A3C9C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9EAA40-E1AB-48A0-B0A9-8AD65A3C9C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F76837-7AC7-47C1-B163-BF5FAA62E3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F76837-7AC7-47C1-B163-BF5FAA62E3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F76837-7AC7-47C1-B163-BF5FAA62E3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F76837-7AC7-47C1-B163-BF5FAA62E3FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73532E94-0A3A-4B27-9C75-21B224B68EEC}
+	EndGlobalSection
+EndGlobal
